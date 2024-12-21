@@ -239,4 +239,8 @@ In this project, I set up two Virtual Machines (VMs): one running Windows Server
 <p> 
 
 <h2> AD Infrastructure is Completed </h2>
+
 *The foundational Active Directory infrastructure is now fully set up in Azure. The Domain Controller (DC-1) and Client-1 are successfully connected within the same virtual network, with the client configured to use the Domain Controller's private IP for DNS resolution. Network connectivity between the two machines has been verified through successful ping tests, and the environment is now ready for advanced configurations.*
+
+</p>
+<br />
